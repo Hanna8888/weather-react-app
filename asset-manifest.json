@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/social-network-react-app/static/css/main.03a4c97f.css",
-    "main.js": "/social-network-react-app/static/js/main.24336cb8.js",
-    "static/media/w1.jpg": "/social-network-react-app/static/media/w1.5e9eab8d71289f0d8bb6.jpg",
-    "index.html": "/social-network-react-app/index.html",
-    "main.03a4c97f.css.map": "/social-network-react-app/static/css/main.03a4c97f.css.map",
-    "main.24336cb8.js.map": "/social-network-react-app/static/js/main.24336cb8.js.map"
+    "main.css": "/weather-react-app/static/css/main.eb2d5058.css",
+    "main.js": "/weather-react-app/static/js/main.24336cb8.js",
+    "static/media/w1.jpg": "/weather-react-app/static/media/w1.5e9eab8d71289f0d8bb6.jpg",
+    "index.html": "/weather-react-app/index.html",
+    "main.eb2d5058.css.map": "/weather-react-app/static/css/main.eb2d5058.css.map",
+    "main.24336cb8.js.map": "/weather-react-app/static/js/main.24336cb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.03a4c97f.css",
+    "static/css/main.eb2d5058.css",
     "static/js/main.24336cb8.js"
   ]
 }
