@@ -1,0 +1,32 @@
+.bg-img{
+    background-image: url(assets/w1.jpg);
+    background-repeat:no-repeat;
+    background-position: center center;
+    min-height: 100vh;
+}
+
+button:active.focus,
+button:active:focus,
+button:focus {
+    outline: 0!important;
+    outline-color: transparent!important;
+    outline-width: 0!important;
+    outline-style: none!important;
+    box-shadow: 0 0 0 0 rgba(0,123,255,0)!important;
+}
+
+button.btn.bg-btn {
+    background-color: rgba(255, 255, 255, .5);
+
+}
+
+button.btn.bg-btn:hover{
+    background-color: rgba(255, 255, 255, .6);
+    transition: background-color 0.3s linear;
+}
+
+.card-custom{
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    background-color: rgba(255, 255, 255, .5);
+}
